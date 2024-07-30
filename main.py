@@ -20,4 +20,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 
-bot.run('your_token_here')
+bot.run('MTI2NzY3Mjk5MzA2MDg4MDQyNA.G60FeD.CIblyWA3pfLSyDEVfGWLKvX5Z3kxCv7-cYyMvE')
