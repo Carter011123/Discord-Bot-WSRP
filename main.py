@@ -20,4 +20,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 
-bot.run('MTI2NzY3Mjk5MzA2MDg4MDQyNA.GwtAAH.Gii9CsvoGJ0J8CXhCzKItdw1YSNY4bfCiJK33Y')
+bot.run('API_KEY')
